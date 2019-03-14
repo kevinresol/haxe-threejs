@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/kevin/Codes/haxe-threejs/documentator/ThreejsDocumentator.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
